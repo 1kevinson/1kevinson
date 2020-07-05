@@ -2,7 +2,7 @@
 
 Hi ! I am __Kevin__,
 
-I am a software engineer, really passionate about programming. _But I playing basketball 🏀 in my spare time, enjoying play as pointguard with my neighborhood team._
+I am a software engineer, really passionate about programming, _Also playing basketball 🏀 in my spare time, enjoying play as pointguard with my neighborhood team._
 
 Mantra: 
 > You never realize your potential by accident, only by choice
