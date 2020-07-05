@@ -1,16 +1,11 @@
 
 
-Hi ! I am __Kevin__ 🐝,
+Hi ! I am __Kevin__,
 
-I am a software engineer, really passionate about programming. Creating applications in a structured pattern and bringing added value to each of my projects is very important to me. _By the way I play basketball 🏀 in my spare time, enjoying play as pointguard with my neighborhood team._
+I am a software engineer, really passionate about programming. _But I playing basketball 🏀 in my spare time, enjoying play as pointguard with my neighborhood team._
 
-After few years of being in dev community, I worked with a plenty tech stack so far :
-
-👨🏽‍💻 ▸ HTML5 / CSS3 / Java Spring / Angular 6+ / NodeJS / ExpressJS / PHP Symfony 3+ / Bootstrap 3+ / Ionic 3+ / MySQL / MongoDB / Docker / Linux Ubuntu & Red Hat / Agile Methodology
-
-⦿ A quote that I like : 
+Mantra: 
 > You never realize your potential by accident, only by choice
-
 
 `Some of my repos are privates, if you are interested about working with me, feel free to contact me.`
 ***
