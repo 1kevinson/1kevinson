@@ -32,3 +32,6 @@ Beside's programming I enjoy playing basketball. </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?color=blue&label=Twitter%20Followers&logo=twitter&style=for-the-badge)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20karma&logo=reddit&style=for-the-badge)
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=1kevinson)](https://github.com/1kevinson/github-readme-stats)
