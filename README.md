@@ -18,5 +18,10 @@ Beside's programming I enjoy playing basketball. </p>
 </p>
 
 
-<br><br><br>
-> Talking about metrics : 
+<br><br>
+
+> Metrics:
+
+![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?label=Twitter%20Followers&style=plastic&logo=twitter) 
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20Karma&style=plastic&logo=reddit)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)
