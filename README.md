@@ -6,6 +6,15 @@
 <p align="center">I am a software engineer, developer | freelancer and contributor on opensource projects. <br>
 Beside's programming I enjoy playing basketball. </p>
 
+<br>
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)
+
+  </p>
+  
+
 ---
 
 <br>
@@ -19,9 +28,7 @@ Beside's programming I enjoy playing basketball. </p>
 
 
 <br><br>
+**Metrics:**
 
-> Metrics:
-
-![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?label=Twitter%20Followers&style=plastic&logo=twitter) 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20Karma&style=plastic&logo=reddit)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)
+![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?color=blue&label=Twitter%20Followers&logo=twitter&style=for-the-badge)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20karma&logo=reddit&style=for-the-badge)
