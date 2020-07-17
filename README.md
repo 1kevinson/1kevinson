@@ -19,11 +19,10 @@ Beside's programming I enjoy playing basketball. </p>
 
 <br>
 <p align="center">
-<a  href="https://discord.gg/BcXGa8w" target="_blank"> <img src="https://img.icons8.com/dotty/50/000000/discord-logo.png"/></a> &nbsp &nbsp &nbsp
-<a href="https://www.1kevinson.net" target="_blank"><img src="https://img.icons8.com/carbon-copy/50/000000/supplier.png"/> </a>  &nbsp &nbsp &nbsp
-<a  href="https://twitter.com/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dotty/50/000000/twitter.png"/></a>  &nbsp &nbsp &nbsp
-<a  href="https://www.linkedin.com/in/kevin-kouomeu/" target="_blank"><img src="https://img.icons8.com/dotty/50/000000/linkedin.png"/></a>  &nbsp &nbsp &nbsp
-<a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dotty/50/000000/telegram-app.png"/></a>
+<a  href="https://discord.gg/BcXGa8w" target="_blank"> <img src="https://img.icons8.com/dotty/45/000000/discord-logo.png"/></a> &nbsp &nbsp &nbsp
+<a  href="https://twitter.com/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dotty/45/000000/twitter.png"/></a>  &nbsp &nbsp &nbsp
+<a  href="https://www.linkedin.com/in/kevin-kouomeu/" target="_blank"><img src="https://img.icons8.com/dotty/45/000000/linkedin.png"/></a>  &nbsp &nbsp &nbsp
+<a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dotty/45/000000/telegram-app.png"/></a>
 </p>
 
 
