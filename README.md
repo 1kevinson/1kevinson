@@ -11,8 +11,6 @@ Beside's programming I enjoy playing basketball. </p>
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)
-
-  </p>
   
 
 ---
@@ -34,3 +32,5 @@ Beside's programming I enjoy playing basketball. </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?color=blue&label=Twitter%20Followers&logo=twitter&style=for-the-badge)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20karma&logo=reddit&style=for-the-badge)
+
+</div>
