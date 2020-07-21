@@ -12,7 +12,7 @@ Beside's programming I enjoy playing basketball. </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)
 
-<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="500" height="350"  />
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="450" height="300"  />
 
 ---
 
