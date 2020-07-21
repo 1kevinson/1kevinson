@@ -20,10 +20,10 @@ Beside's programming I enjoy playing basketball. </p>
 <br>
 <p align="center">
 <a  href="mailto:kouomeukevin@gmail.com" target="_blank"> <img src="https://img.icons8.com/dusk/35/000000/gmail.png"/> </a> &nbsp &nbsp &nbsp
-<a  href="https://twitter.com/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dusk/35/000000/twitter.png"/></a>  &nbsp &nbsp &nbsp
+<a  href="https://twitter.com/nivek_enesra" target="_blank"><img src="https://img.icons8.com/office/40/000000/twitter.png"/></a>  &nbsp &nbsp &nbsp
 <a  href="https://www.reddit.com/user/1kevinson/" target="_blank"> <img src="https://img.icons8.com/dusk/35/000000/reddit.png"/>  </a> &nbsp &nbsp &nbsp
-<a  href="https://www.linkedin.com/in/kevin-kouomeu/" target="_blank"><img src="https://img.icons8.com/dusk/35/000000/linkedin.png"/></a>  &nbsp &nbsp &nbsp
-<a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/dusk/35/000000/communication.png"/></a>
+<a  href="https://www.linkedin.com/in/kevin-kouomeu/" target="_blank"><img src="https://img.icons8.com/office/40/000000/linkedin.png"/></a>  &nbsp &nbsp &nbsp
+<a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/office/40/000000/communication.png"/></a>
 </p>
 
 
