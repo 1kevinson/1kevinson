@@ -27,11 +27,9 @@ Beside's programming I enjoy playing basketball. </p>
 <a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/wired/40/000000/telegram-app.png"/></a>
 </p>
 
+[comment]: # "**Metrics:**"
 
-<br><br>
-**Metrics:**
-
-![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?color=blue&label=Twitter%20Followers&logo=twitter&style=for-the-badge)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20karma&logo=reddit&style=for-the-badge)
+[comment]: #  "![Twitter Follow](https://img.shields.io/twitter/follow/nivek_enesra?color=blue&label=Twitter%20Followers&logo=twitter&style=for-the-badge)"
+[comment]: #  "![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/1kevinson?label=Reddit%20karma&logo=reddit&style=for-the-badge)"
 
 </div>
