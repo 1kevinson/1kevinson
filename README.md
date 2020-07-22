@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">I am a software engineer, developer | freelancer and contributor on opensource projects. <br>
-Beside's programming I enjoy playing basketball. </p>
+ <b>Let's connect to build something cool together.</b> </p>
 
 <div align="center">
 
