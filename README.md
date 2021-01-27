@@ -25,7 +25,7 @@
 </p>
 -->
 <p align="center">
-<img src="https://memo.memosyne.com/MEMOSYNE_WEB/images/source.gif" style="opacity:0.6" width="500" height="150" />
+<img src="https://memo.memosyne.com/MEMOSYNE_WEB/images/source.gif" style="opacity:0.6" width="500" height="100" />
 </p>
 
 [comment]: #  "![visitors](https://visitor-badge.laobi.icu/badge?page_id=1kevinson.1kevinson)"
