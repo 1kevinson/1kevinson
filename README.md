@@ -19,6 +19,7 @@
 <a  href="https://stackoverflow.com/users/story/9019654" target="_blank"> <img src="https://img.icons8.com/ios/40/000000/stackoverflow.png"/> </a> &nbsp &nbsp &nbsp &nbsp
 <a  href="https://www.linkedin.com/in/arsene-simo" target="_blank"><img src="https://img.icons8.com/ios/40/000000/linkedin-circled.png"/></a>  &nbsp &nbsp &nbsp &nbsp 
 <a  href="https://www.reddit.com/user/1kevinson/" target="_blank"> <img src="https://img.icons8.com/ios/40/000000/reddit.png"/>  </a> &nbsp &nbsp &nbsp &nbsp 
+ <a  href="https://www.strava.com/athletes/57108222" target="_blank">  <img src="https://img.icons8.com/windows/40/000000/strava.png"/>  </a> &nbsp &nbsp &nbsp &nbsp 
  <a  href="https://twitter.com/1kevinson" target="_blank"><img src="https://img.icons8.com/ios/40/000000/twitter.png"/></a> &nbsp &nbsp &nbsp &nbsp
 <a  href="https://t.me/nivek_enesra" target="_blank"><img src="https://img.icons8.com/ios/40/000000/telegram-app.png"/></a>
 </p>
