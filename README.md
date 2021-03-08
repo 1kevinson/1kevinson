@@ -1,10 +1,9 @@
 <!-- <p align="center">
  Hi i'm <a href="https://wakatime.com/@1kevinson" target="_blank">Kevin !</a> 
 </p>
-<br>
+<br> -->
 
-<p align="center">I am a software engineer, developer | freelancer and contributor on opensource projects. <br>
- <b>Let's connect to build something cool together.</b> </p> -->
+<p align="center"> The Millennials Coders website is under construction...</b> </p>
 
 <div align="center">
 
