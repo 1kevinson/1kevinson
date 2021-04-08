@@ -3,8 +3,6 @@
 </p>
 <br> -->
 
-<p align="center"> The Millennials Coders website is under construction...</b> </p>
-
 <div align="center">
 
 
