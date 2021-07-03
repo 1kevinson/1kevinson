@@ -15,9 +15,7 @@
 <!-- <a  href="https://1kevinson.net" target="_blank"> <img src="https://img.icons8.com/ios/40/000000/hashtag-large.png"/></a> &nbsp &nbsp &nbsp &nbsp -->
 <a  href="https://stackoverflow.com/users/9019654/1kevinson" target="_blank"> <img src="https://img.icons8.com/ios/30/000000/stackoverflow.png"/></a>&nbsp &nbsp &nbsp 
 <a  href="https://www.linkedin.com/in/arsene-simo" target="_blank"><img src="https://img.icons8.com/ios/30/000000/linkedin-circled.png"/></a> &nbsp &nbsp &nbsp 
-<a  href="https://www.facebook.com/Millenials-Coders-120837979874032" target="_blank"> <img src="https://img.icons8.com/ios/30/000000/facebook.png"/>  </a> &nbsp &nbsp &nbsp 
-<a  href="https://twitter.com/millennialscdrs" target="_blank"><img src="https://img.icons8.com/ios/30/000000/twitter.png"/></a> &nbsp &nbsp &nbsp 
-<a  href="https://t.me/millennialscoders" target="_blank"><img src="https://img.icons8.com/ios/30/000000/telegram-app.png"/></a>
+<a  href="https://twitter.com/1kevinson" target="_blank"><img src="https://img.icons8.com/ios/30/000000/twitter.png"/></a> &nbsp &nbsp &nbsp 
 </p>
 
  <!-- 
