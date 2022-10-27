@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### The master has failed more times than the beginner has even tried. ― _Stephen McCranie_
+### 🎧  All We Are ― Matt Nathanson
