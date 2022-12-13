@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎧  All We Are ― Matt Nathanson
+I write some technical articles @ [1kevinson.com](https://1kevinson.com)
