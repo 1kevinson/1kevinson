@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I write some technical articles @ [1kevinson.com](https://1kevinson.com)
+I write some technical shit @ [1kevinson.com](https://1kevinson.com)
